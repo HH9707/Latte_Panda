@@ -6,6 +6,7 @@ MANIFEST.MF
 .classpath
 .project
 .settings/
+/build/
 
 #IntelliJ
 .idea/
@@ -18,4 +19,6 @@ out/
 
 #MAC
 .DS_STORE
-/build/
+
+#오라클 클라우드 연결
+DBUtil.java
