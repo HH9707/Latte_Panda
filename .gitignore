@@ -20,5 +20,5 @@ out/
 #MAC
 .DS_STORE
 
-#오라클 클라우드 연결
+#오라클 연결 (각자 다른 URL 사용)
 DBUtil.java
